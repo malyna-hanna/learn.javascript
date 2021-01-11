@@ -1,0 +1,18 @@
+.header{
+    color: #4CAF50;;
+    font-size: 30px;
+}
+.myButton{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 51px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+}
+.input{
+    padding: 10px 51px;
+    font-size: 16px; 
+}
