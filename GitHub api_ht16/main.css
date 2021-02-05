@@ -1,0 +1,16 @@
+.photo{
+    width: 300px;
+}
+.inputs{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.find_login{
+    width: 170px;
+    height: 35px;
+}
+.click{
+    width: 170px;
+    height: 35px;
+}
