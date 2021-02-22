@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.stick{
+    display: grid;
+    padding: 25px;
+    background-color: honeydew;
+    margin: 15px;
+}
